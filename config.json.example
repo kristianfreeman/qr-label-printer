@@ -1,0 +1,6 @@
+{
+  "sticker_1": {"text": "https://example.com/1", "subtitle": "Link 1"},
+  "sticker_2": {"text": "https://example.com/2", "subtitle": "Link 2"},
+  "sticker_3": {"text": "https://example.com/3", "subtitle": "Link 3"},
+  "sticker_4": {"text": "https://example.com/4", "subtitle": "Link 4"}
+}
